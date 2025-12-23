@@ -6,7 +6,7 @@ Repository for shared solutions of AoC 2025!
 
 ## Solutions in python with an educational focus
 
-IN typical form, I have started this on Dec 23.
+In typical form, I have started this on Dec 23.
 
 Time machine notwithstanding, this will not be done before the deadline.
 
@@ -15,7 +15,7 @@ https://github.com/JohnTocher/advent-of-code-2023
 
 ## Current status
 
-Not started
+Puzzle 1 completed
 
 John Tocher  
 Tue 23 December 2025
