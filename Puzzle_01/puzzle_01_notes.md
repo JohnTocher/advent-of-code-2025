@@ -6,12 +6,12 @@
 ## Part 1
 [my solution](puzzle_01-part_1_jmt.py)
 
-Result is: 1603498
+Result is: 1154
 
 ## Part 2
 [my solution](puzzle_01-part_2_jmt.py)
 
-TBA
+Result is: Result is: 1603498
 
 ## Gotchas
 
